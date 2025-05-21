@@ -65,7 +65,7 @@ pip install -r requirements.txt
 streamlit run study_tracker.py
 ```
 
-2. Open your web browser and navigate to the URL shown in the terminal (typically https://custom-study-tracker.streamlit.app/)
+2. Open your web browser and navigate to the URL shown in the terminal (typically https://karyaa.streamlit.app/)
 
 3. Start using the dashboard:
    - Add your subjects/work items
