@@ -18,20 +18,6 @@ A comprehensive dashboard application built with Streamlit to help you track you
 - Add notes and resource links
 - Delete or modify tasks
 
-### 📈 Subject Trackers
-- Monitor progress for each subject/work item
-- View detailed statistics and metrics
-- Track completed hours and tasks
-- Visual progress indicators
-- Subject-specific task management
-
-### 📊 Progress Overview
-- Comprehensive progress visualization
-- Daily study/work hours tracking
-- Subject-wise progress breakdown
-- Interactive charts and graphs
-- 30-day progress history
-
 ### 🎯 Goals Management
 - Set weekly and monthly goals
 - Priority-based goal tracking
@@ -135,13 +121,6 @@ The application uses SQLite with the following tables:
 - Task management
 - Progress visualization
 - Performance metrics
-
-### Progress Overview
-- Overall progress tracking
-- Subject-wise breakdown
-- Historical data analysis
-- Visual progress indicators
-- Performance trends
 
 ### Goals Management
 - Goal setting and tracking
