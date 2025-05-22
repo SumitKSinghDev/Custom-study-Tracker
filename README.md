@@ -1,4 +1,4 @@
-# Custom Study/Work Tracker Dashboard
+# Custom Study/Work Tracker Dashboard (Karyaa)
 
 A comprehensive dashboard application built with Streamlit to help you track your study or work progress, manage tasks, and achieve your goals.
 
